@@ -1,4 +1,4 @@
-# The Cashier
+# College Assignment - The Cashier
 Aplikasi ini berfungsi untuk menghitung total belanja pengguna.
 
 ## Scope & Functionalities
